@@ -25,10 +25,15 @@ export const socialLinks = [
 ];
 
 export const items: LinkItem[] = [
+  // {
+  //   type: "youtube",
+  //   title: "Latest Youtube Video",
+  //   youtubeId: "gOAcuS68HqA",
+  // },
   {
-    type: "youtube",
-    title: "Latest Youtube Video",
-    youtubeId: "gOAcuS68HqA",
+    type: "link",
+    title: "Canada's most competitive Hackathon (I'll be judging!)",
+    url: "https://hackai.ca/",
   },
   { type: "category", title: "My startup" },
   {
