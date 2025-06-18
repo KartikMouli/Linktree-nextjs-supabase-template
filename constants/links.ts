@@ -30,15 +30,10 @@ export const items: LinkItem[] = [
   //   title: "Latest Youtube Video",
   //   youtubeId: "gOAcuS68HqA",
   // },
-  {
-    type: "link",
-    title: "Canada's most competitive Hackathon (I'll be judging!)",
-    url: "https://hackai.ca/",
-  },
   { type: "category", title: "My startup" },
   {
     type: "link",
-    title: "Fallom - Real world interviews for devs",
+    title: "Fallom - Tech recruiting for the 21st century",
     url: "https://fallom.dev/",
   },
   { type: "category", title: "My Stuff" },
